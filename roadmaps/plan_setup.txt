@@ -115,7 +115,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 
 ### Development Scripts
 [x] Create `setup.sh`/`setup.bat` for environment setup
-[ ] Create `build.sh`/`build.bat` for quick building
+[x] Create `build.sh`/`build.bat` for quick building
 [ ] Create `test.sh`/`test.bat` for test execution
 [ ] Create `clean.sh`/`clean.bat` for cleanup
 [ ] Create `format.sh`/`format.bat` for code formatting
