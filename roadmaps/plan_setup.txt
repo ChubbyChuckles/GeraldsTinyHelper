@@ -133,7 +133,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Set up ASLR and DEP protection
 
 ### Memory Management
-[ ] Create memory management utilities
+[x] Create memory management utilities
 [ ] Set up memory pool allocators
 [ ] Configure memory debugging tools
 [ ] Create RAII-like patterns for C
