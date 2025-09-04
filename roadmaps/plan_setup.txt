@@ -90,7 +90,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 ### CI/CD Pipeline Setup
 [x] Configure GitHub Actions workflows
 [x] Set up multi-platform testing (Linux, Windows, macOS)
-[ ] Configure multiple compiler testing (GCC, Clang, MSVC)
+[x] Configure multiple compiler testing (GCC, Clang, MSVC)
 [ ] Set up automated testing on pull requests
 [ ] Configure release automation
 [ ] Set up artifact building and publishing
