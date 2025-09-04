@@ -10,13 +10,13 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Create `src/` directory for main source code
 [x] Create `include/` directory for header files
 [x] Create `lib/` directory for static/dynamic libraries
-[ ] Create `tests/` directory for unit and integration tests
-[ ] Create `docs/` directory for documentation
-[ ] Create `scripts/` directory for build and utility scripts
-[ ] Create `build/` directory for compiled artifacts (gitignored)
-[ ] Create `extern/` directory for external dependencies
-[ ] Create `examples/` directory for usage examples
-[ ] Create `benchmarks/` directory for performance testing
+[x] Create `tests/` directory for unit and integration tests
+[x] Create `docs/` directory for documentation
+[x] Create `scripts/` directory for build and utility scripts
+[x] Create `build/` directory for compiled artifacts (gitignored)
+[x] Create `extern/` directory for external dependencies
+[x] Create `examples/` directory for usage examples
+[x] Create `benchmarks/` directory for performance testing
 
 ### Configuration Files
 [ ] Create `.gitignore` with C-specific patterns
