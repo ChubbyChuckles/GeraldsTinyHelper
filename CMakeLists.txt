@@ -22,6 +22,11 @@ if(ENABLE_SANITIZERS)
     endif()
 endif()
 
+# Enable link-time optimization for release builds
+if(NOT MSVC)
+    set(CMAKE_C_FLAGS_RELEASE "${CMAKE_C_FLAGS_RELEASE} -flto")
+endif()
+
 # Add executable
 add_executable(${PROJECT_NAME} src/main.c)
 

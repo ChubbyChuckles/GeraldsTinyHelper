@@ -46,7 +46,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Set up sanitizers for development (AddressSanitizer, UBSan)
 [x] Configure position-independent code (`-fPIC`)
 [x] Enable debug symbols for development builds
-[ ] Set up link-time optimization for release builds
+[x] Set up link-time optimization for release builds
 
 ### Development Tools Integration
 [ ] Configure `clang-format` with consistent C style
