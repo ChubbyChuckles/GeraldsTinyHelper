@@ -119,7 +119,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Create `test.sh`/`test.bat` for test execution
 [x] Create `clean.sh`/`clean.bat` for cleanup
 [x] Create `format.sh`/`format.bat` for code formatting
-[ ] Create dependency installation scripts
+[x] Create dependency installation scripts
 
 ---
 
