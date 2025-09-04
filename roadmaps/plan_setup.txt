@@ -125,12 +125,12 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 
 ## Phase 6: Security & Best Practices
 ### Security Hardening
-[ ] Configure secure coding standards
-[ ] Set up buffer overflow protection
-[ ] Configure integer overflow detection
-[ ] Set up format string protection
-[ ] Configure stack canaries
-[ ] Set up ASLR and DEP protection
+[x] Configure secure coding standards
+[x] Set up buffer overflow protection
+[x] Configure integer overflow detection
+[x] Set up format string protection
+[x] Configure stack canaries
+[x] Set up ASLR and DEP protection
 
 ### Memory Management
 [ ] Create memory management utilities
