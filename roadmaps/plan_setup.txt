@@ -33,11 +33,11 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 ### Modern Build System Setup
 [x] Create `CMakeLists.txt` (primary build system)
 [x] Configure CMake for C11 standard compliance
-[ ] Set up cross-platform build configuration
+[x] Set up cross-platform build configuration
 [ ] Create alternative `Makefile` for lightweight builds
-[ ] Configure out-of-source builds
-[ ] Set up debug and release build configurations
-[ ] Configure compiler-specific optimizations
+[x] Configure out-of-source builds
+[x] Set up debug and release build configurations
+[x] Configure compiler-specific optimizations
 
 ### Compiler Configuration
 [ ] Set C11 standard (`-std=c11`)
