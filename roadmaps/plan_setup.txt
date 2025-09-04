@@ -96,11 +96,11 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Set up artifact building and publishing
 
 ### Platform-Specific Configuration
-[ ] Configure Windows build with MSVC and MinGW
-[ ] Set up Linux build with GCC and Clang
-[ ] Configure macOS build with Xcode toolchain
-[ ] Set up cross-compilation support
-[ ] Configure package management integration (vcpkg, Conan)
+[x] Configure Windows build with MSVC and MinGW
+[x] Set up Linux build with GCC and Clang
+[x] Configure macOS build with Xcode toolchain
+[x] Set up cross-compilation support
+[x] Configure package management integration (vcpkg, Conan)
 
 ---
 
