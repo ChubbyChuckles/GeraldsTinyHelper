@@ -152,12 +152,12 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Create installation packages
 
 ### Release Management
-[ ] Set up automated versioning
-[ ] Configure changelog generation
-[ ] Set up release notes automation
-[ ] Create distribution packages
-[ ] Set up package repository publishing
-[ ] Configure update mechanisms
+[x] Set up automated versioning
+[x] Configure changelog generation
+[x] Set up release notes automation
+[x] Create distribution packages
+[x] Set up package repository publishing
+[x] Configure update mechanisms
 
 ---
 
