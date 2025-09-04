@@ -1,0 +1,8 @@
+Write a detailed, sophsiticated implementation plan to set this repository up for professional development in the C11 language. Format the plan as a TODO List with tasks that arent finished yet marked with "[ ]" and tasks that are finished marked as "[x]". Write the plan to "roadmaps/plan_setup.txt".
+
+
+### Commands for Kilo
+
+Repeat this process until all features are implemented:
+
+Read the file "roadmaps/plan_setup.txt". Choose the next not implemented feature from the top and implement it. After successfull implementation go back to the "roadmaps/plan_setup.txt" and mark the feature as implemented by changing "[ ]" to "[x]". Generate a concise commit message about the recent changes, commit and push the changes.
