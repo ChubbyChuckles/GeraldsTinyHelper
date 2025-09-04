@@ -13,6 +13,15 @@ else()
     add_compile_options(-Wall -Wextra -Wpedantic -fstack-protector-strong -D_FORTIFY_SOURCE=2)
 endif()
 
+# Enable sanitizers for development
+option(ENABLE_SANITIZERS "Enable sanitizers for development" OFF)
+if(ENABLE_SANITIZERS)
+    if(NOT MSVC)
+        add_compile_options(-fsanitize=address -fsanitize=undefined)
+        add_link_options(-fsanitize=address -fsanitize=undefined)
+    endif()
+endif()
+
 # Add executable
 add_executable(${PROJECT_NAME} src/main.c)
 
