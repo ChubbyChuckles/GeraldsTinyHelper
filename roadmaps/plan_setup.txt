@@ -135,10 +135,10 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 ### Memory Management
 [x] Create memory management utilities
 [x] Set up memory pool allocators
-[ ] Configure memory debugging tools
-[ ] Create RAII-like patterns for C
-[ ] Set up memory profiling tools
-[ ] Create leak detection utilities
+[x] Configure memory debugging tools
+[x] Create RAII-like patterns for C
+[x] Set up memory profiling tools
+[x] Create leak detection utilities
 
 ---
 
