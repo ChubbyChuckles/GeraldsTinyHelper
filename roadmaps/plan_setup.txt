@@ -34,7 +34,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Create `CMakeLists.txt` (primary build system)
 [x] Configure CMake for C11 standard compliance
 [x] Set up cross-platform build configuration
-[ ] Create alternative `Makefile` for lightweight builds
+[x] Create alternative `Makefile` for lightweight builds
 [x] Configure out-of-source builds
 [x] Set up debug and release build configurations
 [x] Configure compiler-specific optimizations
