@@ -107,11 +107,11 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 ## Phase 5: Development Environment
 ### IDE/Editor Configuration
 [x] Create `.vscode/` configuration for VS Code
-[ ] Configure IntelliSense and debugging
-[ ] Set up code formatting and linting integration
-[ ] Create build task configurations
-[ ] Set up debugging configurations
-[ ] Configure extensions recommendations
+[x] Configure IntelliSense and debugging
+[x] Set up code formatting and linting integration
+[x] Create build task configurations
+[x] Set up debugging configurations
+[x] Configure extensions recommendations
 
 ### Development Scripts
 [ ] Create `setup.sh`/`setup.bat` for environment setup
