@@ -10,7 +10,7 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 if(MSVC)
     add_compile_options(/W4)
 else()
-    add_compile_options(-Wall -Wextra -Wpedantic -fstack-protector-strong -D_FORTIFY_SOURCE=2)
+    add_compile_options(-Wall -Wextra -Wpedantic -fstack-protector-strong -D_FORTIFY_SOURCE=2 -fPIC)
 endif()
 
 # Enable sanitizers for development
