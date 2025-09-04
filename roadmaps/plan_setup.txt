@@ -77,7 +77,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Configure complexity metrics monitoring
 
 ### Documentation System
-[ ] Set up Doxygen for API documentation
+[x] Set up Doxygen for API documentation
 [ ] Configure automatic documentation generation
 [ ] Create documentation templates
 [ ] Set up documentation website (GitHub Pages)
