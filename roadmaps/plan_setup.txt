@@ -78,11 +78,11 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 
 ### Documentation System
 [x] Set up Doxygen for API documentation
-[ ] Configure automatic documentation generation
-[ ] Create documentation templates
-[ ] Set up documentation website (GitHub Pages)
-[ ] Create coding style guide documentation
-[ ] Set up API reference generation
+[x] Configure automatic documentation generation
+[x] Create documentation templates
+[x] Set up documentation website (GitHub Pages)
+[x] Create coding style guide documentation
+[x] Set up API reference generation
 
 ---
 
