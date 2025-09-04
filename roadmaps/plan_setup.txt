@@ -45,7 +45,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Configure security flags (`-fstack-protector-strong`, `-D_FORTIFY_SOURCE=2`)
 [x] Set up sanitizers for development (AddressSanitizer, UBSan)
 [x] Configure position-independent code (`-fPIC`)
-[ ] Enable debug symbols for development builds
+[x] Enable debug symbols for development builds
 [ ] Set up link-time optimization for release builds
 
 ### Development Tools Integration
