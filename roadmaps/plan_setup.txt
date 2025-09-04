@@ -25,7 +25,7 @@ This roadmap outlines the comprehensive setup of GeraldsTinyHelper repository fo
 [x] Create `LICENSE` file (recommend MIT or Apache 2.0)
 [x] Create `CHANGELOG.md` for version tracking
 [x] Create `CONTRIBUTING.md` for contributor guidelines
-[ ] Create `CODE_OF_CONDUCT.md` for community standards
+[x] Create `CODE_OF_CONDUCT.md` for community standards
 
 ---
 
